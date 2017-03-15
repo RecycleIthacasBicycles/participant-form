@@ -48,7 +48,7 @@ We hold that a bicycle should be judged by its safety, its functionality, its be
 
 <b>• RIB is a Safer Space- </b>
 	
-This means that we don't tolerate language or behavior that is sexist, racist, homophobic, trans phobic, abusive, condescending, abusive, or violent. Ask before touching anyone else's project, certainly ask before touching anyone themselves, and try your best to listen as much as you speak.
+This means that we don't tolerate language or behavior that is sexist, racist, homophobic, trans phobic, abusive, condescending, or violent. Ask before touching anyone else's project, certainly ask before touching anyone themselves, and try your best to listen as much as you speak.
 
 <i>By signing here, I acknowledge that I have read all of RIBs policies, and will abide by additional policies as set by RIBs staff.  Furthermore, I realize that working with tools and riding bikes have inherent risks, and that neither Recycle Ithaca's Bicycles, RIBs staff, nor the Southside Community Center are responsible for any injuries occurring while working at RIBs, or because of services received therein.</i>
 
