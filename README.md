@@ -4,7 +4,7 @@
 
 <b>Name or alias:</b> (We request that you use an alias to help us anonymize your information. However, we need accurate statistics for grant applications and general accountability, so if using an alias, please always use the same one when signing in at RIB.):______________________________________________
 
-<b>Gender:</b>____________ <b>pproximate age:</b>____________ <b>Ethnicity:</b>____________________ <b>Annual income:</b>_____________     
+<b>Gender:</b>____________ <b>Approximate age:</b>____________ <b>Ethnicity:</b>_________________ <b>Annual income:</b>_____________     
 
 <b>Email (we will not spam you):</b>____________________________________ <b>Can we add you to mailing list?:</b>  Y  /  N
 
@@ -52,8 +52,8 @@ This means that we don't tolerate language or behavior that is sexist, racist, h
 
 <i>By signing here, I acknowledge that I have read all of RIBs policies, and will abide by additional policies as set by RIBs staff.  Furthermore, I realize that working with tools and riding bikes have inherent risks, and that neither Recycle Ithaca's Bicycles, RIBs staff, nor the Southside Community Center are responsible for any injuries occurring while working at RIBs, or because of services received therein.</i>
 
-<b>Name:</b>________________________________ <b>Signature:</b>________________________ <b>Today’s Date:</b>_______________
+<b>Name:</b>___________________________ <b>Signature:</b>_______________________ <b>Today’s Date:</b>_______________
 
-<b>If under 18:</b>
+<b>If under 18 (parents of children under 18 cannot use an alias):</b>
 
-<b>Parent Name:</b>________________________ <b>Parent Signature:</b>________________________ <b>Today’s Date:</b>_____________
+<b>Parent Name:</b>_____________________ <b>Parent Signature:</b>____________________ <b>Today’s Date:</b>____________
