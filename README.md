@@ -21,6 +21,7 @@ Recycle Ithaca's Bicycles Participant Policies:
 	Please Sign In- 
 	
 	If it's your first time here, also fill out a participation form.
+	
 	Hands Off Approach- 
 	
 	RIBs values learning, education, and empowerment.  We don't fix things for you, rather we help you do it yourself.
@@ -44,8 +45,8 @@ Recycle Ithaca's Bicycles Participant Policies:
 
 		By signing here, I acknowledge that I have read all of RIBs policies, and will abide by additional policies as set by RIBs staff.  Furthermore, I realize that working with tools and riding bikes have inherent risks, and that neither Recycle Ithaca's Bicycles, RIBs staff, nor the Southside Community Center are responsible for any injuries occurring while working at RIBs, or because of services received therein.
 
-Name:____________________________________ Signature:____________________________ Today’s Date:_______________
+Name:____________________________________ Signature:________________________ Today’s Date:_______________
 
 If under 18:
 
-Parent Name:____________________________ Parent Signature:____________________________Today’s Date:_____________
+Parent Name:____________________________ Parent Signature:________________________Today’s Date:_____________
