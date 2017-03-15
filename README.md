@@ -1,12 +1,12 @@
 # participant-form
 
-RIBs Participation Form
+RIB Participation Form
 
 Name or alias: (we request that you use an alias to help us anonymize your information. However, we need accurate statistics for grant applications and general accountability, so if using an alias, please always use the same one when signing in at RIBs):                                                                        
 
-Gender:____________ Approximate age:____________ Ethnicity:_____________________ Annual income:_____________     
+Gender:____________ Approximate age:____________ Ethnicity:____________________ Annual income:_____________     
 
-Email (we will not spam you):                                              Can we add you to mailing list?:  Y  /  N
+Email (we will not spam you):____________________________________ Can we add you to mailing list?:  Y  /  N
 
 Do you want to be contacted about donating to RIBs in the future?:  Y  /  N
 
@@ -14,7 +14,7 @@ How did you find out about RIBs?:  Friend  /  Staff  /  Flyer  /  Internet  /  O
 
 Relationship with biking: New to Bikes  /  Recreation /  Commute  /  Mechanic  /  Touring  /  Other
 
-Emergency Contact(s):                                                           
+Emergency Contact(s):_____________________________________________________
 
 Recycle Ithaca's Bicycles Participant Policies:
 
@@ -44,7 +44,8 @@ Recycle Ithaca's Bicycles Participant Policies:
 
 		By signing here, I acknowledge that I have read all of RIBs policies, and will abide by additional policies as set by RIBs staff.  Furthermore, I realize that working with tools and riding bikes have inherent risks, and that neither Recycle Ithaca's Bicycles, RIBs staff, nor the Southside Community Center are responsible for any injuries occurring while working at RIBs, or because of services received therein.
 
-Name:                                                   Signature:                                                            Today’s Date:                 
+Name:____________________________________ Signature:____________________________ Today’s Date:_______________
 
 If under 18:
-Parent Name:                                      Parent Signature:                                             Today’s Date:                 
+
+Parent Name:____________________________ Parent Signature:____________________________Today’s Date:_____________
