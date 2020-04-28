@@ -41,11 +41,11 @@ have been inspected and repaired by RIB staff.  They are guaranteed against defe
 	
 Bikes not for sale or otherwise allocated can be repaired or rebuilt, or just plain built from parts freely available on site. Once the bike meets our safety standards, you may then own the bicycle if you wish (and even ride it home ^_^ ).
 
-<b>• RIB is Elite, But Not Elitist- </b>
+<b>• RIBs is Elite, But Not Elitist- </b>
 	
 We hold that a bicycle should be judged by its safety, its functionality, its beauty, its historical value, and its utility. RIB upholds the bicycle as an object of art and purpose regardless of the price tag, the pedigree, the popularity, or current fashion trends.
 
-<b>• RIB is a Safer Space- </b>
+<b>• RIBs is a Safer Space- </b>
 	
 This means that we don't tolerate language or behavior that is sexist, racist, homophobic, trans phobic, abusive, condescending, or violent. Ask before touching anyone else's project, certainly ask before touching anyone themselves, and try your best to listen as much as you speak.
 
