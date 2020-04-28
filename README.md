@@ -1,7 +1,7 @@
 # participant-form
 <b>Recycle Ithaca's Bicycles Participation Form</b>
 
-<b>Name or alias:</b> (We request that you use an alias to help us anonymize your information. However, we need accurate statistics for grant applications and general accountability, so if using an alias, please always use the same one when signing in at RIB.):______________________________________________
+<b>Name or alias:</b> (We request that you use an alias to help us anonymize your information. However, we need accurate statistics for grant applications and general accountability, so if using an alias, please always use the same one when signing in at RIBs.):______________________________________________
 
 <b>Gender:</b>____________ <b>Approximate age:</b>____________ <b>Ethnicity:</b>_________________ <b>Annual income:</b>_____________     
 
